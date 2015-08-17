@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/appcode-designer/appcode-designer.iml" filepath="$PROJECT_DIR$/appcode-designer/appcode-designer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-ic.iml" filepath="$PROJECT_DIR$/test-ic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testFramework/testFramework.iml" filepath="$PROJECT_DIR$/testFramework/testFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/util.iml" filepath="$PROJECT_DIR$/untitled/util.iml" />
+    </modules>
+  </component>
+</project>
